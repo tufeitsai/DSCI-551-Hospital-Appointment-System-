@@ -3,4 +3,4 @@ Hospital appointment system with firebase database. Allows user insert, delete, 
 
 Colloborate with **Yuxuan Liu**, **Yunlin Peng**
 
-Demo video: https://youtu.be/ptX2lUogog4
+Project Logic And Application Demo Video: https://youtu.be/ptX2lUogog4
